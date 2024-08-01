@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://static.vecteezy.com/system/resources/previews/005/076/592/non_2x/hacker-mascot-for-sports-and-esports-logo-free-vector.jpg"  />
+  ¡Hola! Soy José C. Vélez, un desarrollador full stack principiante con muchas ganas de mejorar mis habilidades. Actualmente estoy aprendiendo Node.js y TypeScript, ya que pronto Node.js lo soportará oficialmente. Además, estoy buscando proyectos o ideas de     
+  código abierto con los que aprender de la comunidad de desarrollo. Creo que apoyarse en otros desarrolladores es una excelente manera de aprender y mejorar.
 </div>
 
 ###
@@ -12,7 +13,7 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-<h3 align="center">Open to colabrate in any project, just contact me!</h3>
+<h3 align="center"> 📖 Open to colabrate in any project, just contact me! 🔄</h3> 
 
 ###
 
