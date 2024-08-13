@@ -83,4 +83,3 @@ Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar u
 - **Personalización:** Sugerencias sobre cómo modificar la aplicación para adaptarse a tus necesidades.
 - **Licencia y Contribuciones:** Información sobre la licencia del proyecto y cómo contribuir. 
 
-Este `README.md` debería proporcionar a los usuarios toda la información que necesitan para entender, instalar, y usar tu aplicación.
