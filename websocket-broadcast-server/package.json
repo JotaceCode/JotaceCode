@@ -1,0 +1,22 @@
+{
+  "name": "websocket-broadcast-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "José Carlos Vélez Seisdedos",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.12",
+    "@types/yargs": "^17.0.33"
+  }
+}
