@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "date": "2024-08-13",
+        "description": "Cena",
+        "amount": 10
+    },
+    {
+        "id": 2,
+        "date": "2024-08-13",
+        "description": "Pc-Nuevo",
+        "amount": 1869
+    },
+    {
+        "id": 3,
+        "date": "2024-08-13",
+        "description": "Pelado",
+        "amount": 13
+    },
+    {
+        "id": 4,
+        "date": "2024-08-13",
+        "description": "Pelado",
+        "amount": 13
+    },
+    {
+        "id": 5,
+        "date": "2024-08-13",
+        "description": "Pelado",
+        "amount": 13.9
+    },
+    {
+        "id": 6,
+        "date": "2024-08-13",
+        "description": "Pelado",
+        "amount": 13.99
+    }
+]
