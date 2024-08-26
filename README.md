@@ -7,6 +7,8 @@
   ¡Hola! Soy José C. Vélez, un desarrollador full stack principiante con muchas ganas de mejorar mis habilidades. Actualmente estoy aprendiendo Node.js y TypeScript, ya que pronto Node.js lo soportará oficialmente. Además, estoy buscando proyectos o ideas de código abierto con los que aprender de la comunidad de desarrollo. Creo que apoyarse en otros desarrolladores es una excelente manera de aprender y mejorar.
 </div>
 
+###
+
 <div align="left">
   Hello! I'm José C. Vélez, a beginner full stack developer eager to improve my skills. I am currently learning Node.js and TypeScript, as Node.js will soon officially support it. I'm also looking for open-source projects or ideas to learn from the development community. I believe that leaning on other developers is a great way to learn and improve.
 </div>
