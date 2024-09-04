@@ -1,3 +1,6 @@
+
+  ![Proyecto nuevo (2)](https://github.com/user-attachments/assets/1a35108c-b338-4fb2-82c2-bf40038d317f)
+
 <h1 align="center">hey there 👋 | ¡Hola a todos! 👋</h1>
 <h3 align="center"> 📖 Open to collaborate on any project, just contact me! 🔄 | 📖 ¡Abierto a colaborar en cualquier proyecto, solo contáctame! 🔄</h3>
 
