@@ -31,14 +31,13 @@ const developer = {
   role: "Full Stack Developer",
   location: "Spain | España",
   skills: {
-    frontend: ["Angular", "TypeScript", "Three.js"],
-    backend: ["Node.js", "NestJS", "Express"],
+    frontend: ["Angular", "Bootstrap, "React", "Tailwind"],
+    backend: ["Node.js", "Express", "PHP", "Java", "Typescript"],
     databases: ["MongoDB", "MySQL", "Firebase"],
-    devOps: ["Docker", "Git", "AWS Basics"]
+    devOps: ["Docker", "Git"]
   },
   currentProjects: [
-    "3D Interactive Resume with Three.js",
-    "Real-time Collaboration Platform"
+    "Pixel 2D Game"
   ],
   quote: "Coding is the closest thing we have to magic ✨"
 };
